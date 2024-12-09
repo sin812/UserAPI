@@ -22,6 +22,6 @@ This is a RESTful API built with the Slim Framework for managing user data. It a
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-```bash
+ Clone the Repository /r woosh
+
 
